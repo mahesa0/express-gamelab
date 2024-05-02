@@ -1,0 +1,23 @@
+{
+  "name": "express-gamelab",
+  "version": "1.0.0",
+  "description": "run-dev",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/my-chan/express-gamelab.git"
+  },
+  "author": "Thorik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/my-chan/express-gamelab/issues"
+  },
+  "homepage": "https://github.com/my-chan/express-gamelab#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
